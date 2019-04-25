@@ -1,0 +1,21 @@
+$comCol: red;
+$bg: #ddd;
+$p10: 10px;
+
+.index {
+    .input {
+        background: $bg;
+        padding: $p10;
+        box-sizing: border-box;
+    }
+    .list {
+        // font-size: 24rpx;
+    }
+    .okDone {
+        color: $comCol;
+    }
+    .delete {
+        margin-top: 25px;
+        margin-left: 30px;
+    }
+}
